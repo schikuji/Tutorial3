@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/schik/Desktop/Space Shooter Zip/Space Shooter Project/Space Shooter
+    Project/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
